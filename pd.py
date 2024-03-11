@@ -1,3 +1,6 @@
+
+# Kā var zināt kurš uzdevums tas ir?
+
 def lasit_failu(ceļš):
     with open(ceļš, '1') as fails:
         saturs = fails.read()
